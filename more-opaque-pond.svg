@@ -1,0 +1,77 @@
+<?xml version="1.0"?><svg width="800" height="195" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>More Opaque Pond</title>
+ <defs>
+  <linearGradient id="linearGradient2198">
+   <stop stop-color="#37fbff" stop-opacity="0" offset="0" id="stop2200"/>
+   <stop stop-color="#1489ea" stop-opacity="0.587629" offset="0.305556" id="stop2204"/>
+   <stop stop-color="#3a9aff" stop-opacity="0.597938" offset="0.665638" id="stop2206"/>
+   <stop stop-color="#28e0fd" stop-opacity="0" offset="1" id="stop2202"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2161">
+   <stop stop-color="#6b52cf" stop-opacity="0.764706" offset="0" id="stop2163"/>
+   <stop stop-color="#3b4ce1" stop-opacity="0.57732" offset="0.481481" id="stop2226"/>
+   <stop stop-color="#0e5ef6" stop-opacity="0" offset="1" id="stop2165"/>
+  </linearGradient>
+  <linearGradient y2="1.043433" y1="0.10873" xlink:href="#linearGradient2198" x2="0.805754" x1="0.359711" id="linearGradient2196"/>
+  <linearGradient y2="-0.028454" y1="1.243924" xlink:href="#linearGradient2198" x2="0.584274" x1="0.335291" id="linearGradient2210"/>
+  <linearGradient y2="1.043433" y1="0.10873" xlink:href="#linearGradient2198" x2="0.805754" x1="0.359711" id="linearGradient2214"/>
+  <radialGradient xlink:href="#linearGradient2161" r="84.109062" id="radialGradient2224" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.25174, 0.108374, -0.0217896, 0.251673, 506.149, 320.119)" fy="1027.0647" fx="95.41909" cy="1027.0647" cx="95.41909"/>
+  <radialGradient xlink:href="#linearGradient2161" r="84.109062" id="radialGradient2234" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.25915, -0.0109129, -0.00680686, 0.288851, 277.782, 327.791)" fy="1027.0647" fx="95.41909" cy="1027.0647" cx="95.41909"/>
+  <linearGradient y2="0.898378" y1="0.093822" xlink:href="#linearGradient2161" x2="0.510866" x1="0.347823" id="svg_1"/>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path fill="url(#linearGradient2214)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" id="path2212" d="m775.815063,101.804626a302.811493,68.537727 0 1 1-605.622955,-3.353333a302.811493,68.537727 0 1 1605.622955,3.353333z"/>
+  <path fill="url(#linearGradient2210)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" id="path2208" d="m770.497681,106.816223a302.478058,37.97213 0 1 1-604.956146,-15.869934a302.478058,37.97213 0 1 1604.956146,15.869934z"/>
+  <path fill="url(#linearGradient2196)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" id="path2188" d="m773.879395,75.180359a302.803375,58.566921 0 1 1-605.606781,-5.597961a302.803375,58.566921 0 1 1605.606781,5.597961z"/>
+  <path fill="url(#svg_1)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" id="path2169" d="m715.765869,142.044922"/>
+  <path fill="url(#radialGradient2224)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" id="path2181" d="m802.343262,103.752563a113.433922,22.806841 0 1 1-226.867859,-19.641968a113.433922,22.806841 0 1 1226.867859,19.641968z"/>
+  <path fill="url(#radialGradient2234)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" id="path2232" d="m590.961304,125.713135a114.105652,26.175949 0 1 1-228.211304,1.977844a114.105652,26.175949 0 1 1228.211304,-1.977844z"/>
+  <path fill="url(#linearGradient2214)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m795.815063,121.804626a302.811493,68.537727 0 1 1-605.622955,-3.353333a302.811493,68.537727 0 1 1605.622955,3.353333z" id="svg_2"/>
+  <path fill="url(#linearGradient2210)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m790.497681,126.816223a302.478058,37.97213 0 1 1-604.956146,-15.869934a302.478058,37.97213 0 1 1604.956146,15.869934z" id="svg_3"/>
+  <path fill="url(#linearGradient2196)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m793.879395,95.180359a302.803375,58.566921 0 1 1-605.606781,-5.597961a302.803375,58.566921 0 1 1605.606781,5.597961z" id="svg_4"/>
+  <path fill="url(#svg_1)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m735.765869,162.044922" id="svg_5"/>
+  <path fill="url(#radialGradient2224)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m822.343262,123.752563a113.433922,22.806841 0 1 1-226.867798,-19.641968a113.433922,22.806841 0 1 1226.867798,19.641968z" id="svg_6"/>
+  <path fill="url(#radialGradient2234)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m610.961304,145.713135a114.105652,26.175949 0 1 1-228.211304,1.977844a114.105652,26.175949 0 1 1228.211304,-1.977844z" id="svg_7"/>
+  <path fill="url(#linearGradient2214)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m632.815063,90.804626a302.811493,68.537727 0 1 1-605.622955,-3.353333a302.811493,68.537727 0 1 1605.622955,3.353333z" id="svg_8"/>
+  <path fill="url(#linearGradient2210)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m627.497681,95.816223a302.478058,37.97213 0 1 1-604.956146,-15.869934a302.478058,37.97213 0 1 1604.956146,15.869934z" id="svg_9"/>
+  <path fill="url(#linearGradient2196)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m630.879395,64.180359a302.803375,58.566921 0 1 1-605.606781,-5.597961a302.803375,58.566921 0 1 1605.606781,5.597961z" id="svg_10"/>
+  <path fill="url(#svg_1)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m572.765869,131.044922" id="svg_11"/>
+  <path fill="url(#radialGradient2224)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m659.343262,92.752563a113.433922,22.806841 0 1 1-226.867828,-19.641968a113.433922,22.806841 0 1 1226.867828,19.641968z" id="svg_12"/>
+  <path fill="url(#radialGradient2234)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m447.961334,114.713135a114.105652,26.175949 0 1 1-228.211334,1.977844a114.105652,26.175949 0 1 1228.211334,-1.977844z" id="svg_13"/>
+  <path fill="url(#linearGradient2214)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m652.815063,110.804626a302.811493,68.537727 0 1 1-605.622963,-3.353333a302.811493,68.537727 0 1 1605.622963,3.353333z" id="svg_14"/>
+  <path fill="url(#linearGradient2210)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m647.497681,115.816223a302.478058,37.97213 0 1 1-604.956146,-15.869934a302.478058,37.97213 0 1 1604.956146,15.869934z" id="svg_15"/>
+  <path fill="url(#linearGradient2196)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m650.879395,84.180359a302.803375,58.566921 0 1 1-605.606781,-5.597961a302.803375,58.566921 0 1 1605.606781,5.597961z" id="svg_16"/>
+  <path fill="url(#svg_1)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m592.765869,151.044922" id="svg_17"/>
+  <path fill="url(#radialGradient2224)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m679.343262,112.752563a113.433922,22.806841 0 1 1-226.867828,-19.641968a113.433922,22.806841 0 1 1226.867828,19.641968z" id="svg_18"/>
+  <path fill="url(#radialGradient2234)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m467.961304,134.713135a114.105652,26.175949 0 1 1-228.211304,1.977844a114.105652,26.175949 0 1 1228.211304,-1.977844z" id="svg_19"/>
+  <g id="svg_32" transform="rotate(-179.689697265625 460.953369140625,256.59173583984375) ">
+   <path fill="url(#linearGradient2214)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m746.815063,416.804626a302.811493,68.537727 0 1 1-605.622955,-3.353333a302.811493,68.537727 0 1 1605.622955,3.353333z" id="svg_20"/>
+   <path fill="url(#linearGradient2210)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m741.497681,421.816223a302.478058,37.97213 0 1 1-604.956146,-15.869934a302.478058,37.97213 0 1 1604.956146,15.869934z" id="svg_21"/>
+   <path fill="url(#linearGradient2196)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m744.879395,390.180359a302.803375,58.566921 0 1 1-605.606781,-5.597961a302.803375,58.566921 0 1 1605.606781,5.597961z" id="svg_22"/>
+   <path fill="url(#svg_1)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m686.765869,457.044922" id="svg_23"/>
+   <path fill="url(#radialGradient2224)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m773.343262,418.752563a113.433922,22.806841 0 1 1-226.867798,-19.641968a113.433922,22.806841 0 1 1226.867798,19.641968z" id="svg_24"/>
+   <path fill="url(#radialGradient2234)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m561.961304,440.713135a114.105652,26.175949 0 1 1-228.211304,1.977844a114.105652,26.175949 0 1 1228.211304,-1.977844z" id="svg_25"/>
+   <path fill="url(#linearGradient2214)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m766.815063,436.804626a302.811493,68.537727 0 1 1-605.622955,-3.353333a302.811493,68.537727 0 1 1605.622955,3.353333z" id="svg_26"/>
+   <path fill="url(#linearGradient2210)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m761.497681,441.816223a302.478058,37.97213 0 1 1-604.956146,-15.869934a302.478058,37.97213 0 1 1604.956146,15.869934z" id="svg_27"/>
+   <path fill="url(#linearGradient2196)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m764.879395,410.180359a302.803375,58.566921 0 1 1-605.606781,-5.597961a302.803375,58.566921 0 1 1605.606781,5.597961z" id="svg_28"/>
+   <path fill="url(#svg_1)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m706.765869,477.044922" id="svg_29"/>
+   <path fill="url(#radialGradient2224)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m793.343262,438.752563a113.433922,22.806841 0 1 1-226.867798,-19.641968a113.433922,22.806841 0 1 1226.867798,19.641968z" id="svg_30"/>
+   <path fill="url(#radialGradient2234)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m581.961304,460.713135a114.105652,26.175949 0 1 1-228.211304,1.977844a114.105652,26.175949 0 1 1228.211304,-1.977844z" id="svg_31"/>
+  </g>
+  <g transform="rotate(179.74534606933594 309.97662353515625,576.5917968750001) " id="svg_33">
+   <path fill="url(#linearGradient2214)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m595.815063,1065.804688a302.811493,68.537727 0 1 1-605.622963,-3.353394a302.811493,68.537727 0 1 1605.622963,3.353394z" id="svg_34"/>
+   <path fill="url(#linearGradient2210)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m590.497681,1070.816162a302.478058,37.97213 0 1 1-604.956146,-15.869873a302.478058,37.97213 0 1 1604.956146,15.869873z" id="svg_35"/>
+   <path fill="url(#linearGradient2196)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m593.879395,1039.18042a302.803375,58.566921 0 1 1-605.606781,-5.598022a302.803375,58.566921 0 1 1605.606781,5.598022z" id="svg_36"/>
+   <path fill="url(#svg_1)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m535.765869,1106.044922" id="svg_37"/>
+   <path fill="url(#radialGradient2224)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m622.343262,1067.752563a113.433922,22.806841 0 1 1-226.867828,-19.641968a113.433922,22.806841 0 1 1226.867828,19.641968z" id="svg_38"/>
+   <path fill="url(#radialGradient2234)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m410.961334,1089.713135a114.105652,26.175949 0 1 1-228.211334,1.977783a114.105652,26.175949 0 1 1228.211334,-1.977783z" id="svg_39"/>
+   <path fill="url(#linearGradient2214)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m615.815063,1085.804688a302.811493,68.537727 0 1 1-605.622959,-3.353394a302.811493,68.537727 0 1 1605.622959,3.353394z" id="svg_40"/>
+   <path fill="url(#linearGradient2210)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m610.497681,1090.816162a302.478058,37.97213 0 1 1-604.956146,-15.869873a302.478058,37.97213 0 1 1604.956146,15.869873z" id="svg_41"/>
+   <path fill="url(#linearGradient2196)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m613.879395,1059.18042a302.803375,58.566921 0 1 1-605.606781,-5.598022a302.803375,58.566921 0 1 1605.606781,5.598022z" id="svg_42"/>
+   <path fill="url(#svg_1)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m555.765869,1126.044922" id="svg_43"/>
+   <path fill="url(#radialGradient2224)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m642.343262,1087.752563a113.433922,22.806841 0 1 1-226.867828,-19.641968a113.433922,22.806841 0 1 1226.867828,19.641968z" id="svg_44"/>
+   <path fill="url(#radialGradient2234)" fill-rule="nonzero" stroke-width="1.1875" stroke-linejoin="round" stroke-miterlimit="4" d="m430.961334,1109.713135a114.105652,26.175949 0 1 1-228.211334,1.977783a114.105652,26.175949 0 1 1228.211334,-1.977783z" id="svg_45"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,133 @@
+
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="animations.css">
+
+<style>
+body{
+  background: transparent url("bg.jpg") no-repeat scroll left top / cover;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+#sun{
+  margin: 20px auto;
+  width: 100%;
+  position: relative;
+}
+#pond-block{
+  position: absolute;
+  bottom: -50px;
+  left: 30px;
+}
+#cow-block{
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+  z-index: 10;
+}
+#duck{
+  position: absolute;
+  top: -30px;
+  margin-left:280px;
+  z-index: 999;
+}
+
+#cow-body{
+  position: relative;
+}
+#cow-face{
+  position: absolute;
+  top: -20px;
+  margin-left:-20px;
+}
+
+
+#cloud-block{
+  position: relative;
+  z-index: 10;
+}
+#cloud-1{
+  position: relative;
+  top: 0px;
+}
+#cloud-2{
+  position: relative;
+  top: -200px;
+}
+#cloud-3{
+  position: relative;
+  top: -260px;
+  margin-left:-20px;
+}
+
+#tractor-block{
+  position: relative;
+  background-image: url('tractor.png');
+  background-repeat: no-repeat;
+  margin-top:-270px;
+  width:100%;
+  height:300px;
+  z-index: 999;
+}
+#smoke{
+  position:absolute;
+  margin-left: 245px;
+    margin-top: -7px;
+}
+#smoke-cloud{
+  position:absolute;
+  margin-left: 170px;
+  margin-top: -135px;
+}
+#smoke-cloud-small{
+  position:absolute;
+  margin-left: 210px;
+  margin-top: -50px;
+}
+</style>
+</head>
+<body>
+  <div id="sun" class="rotate"><img src="sun.png" alt="" /></div>
+  <div id="cloud-block">
+    <div id="cloud-1" class="slideLeftCloudFast">
+      <img src="Cloudy.png" alt="" />
+    </div>
+    <div id="cloud-2" class="slideLeftCloudMedium">
+      <img src="Cloud1.png" alt="" />
+    </div>
+    <div id="cloud-3" class="slideLeftCloudSlow">
+      <img src="Cloud11.png" alt="" />
+    </div>
+  </div>
+  <div id="tractor-block" class="slideRightSlow">
+      <div id="smoke" class="tossingFast">
+        <img src="smoke-top.png" alt="" />
+      </div>
+      <div id="smoke-cloud" class="fadeInOut">
+        <img src="pump_smoke.png" alt="" />
+      </div>
+      <div id="smoke-cloud-small" class="fadeInOutFast">
+        <img src="pump_smoke_small.png" alt="" />
+      </div>
+  </div>
+  <div id="pond-block">
+    <div id="pond-body">
+      <img src="more-opaque-pond.svg" alt="" />
+    </div>
+    <div id="duck" class="floating">
+      <img src="duck.png" alt="" />
+    </div>
+  </div>
+  <div id="cow-block">
+    <div id="cow-body">
+      <img src="cow-small.png" alt="" />
+    </div>
+    <div id="cow-face" class="tossing">
+      <img src="cow-head-small.png" alt="" />
+    </div>
+  </div>
+</body>
+</html>
